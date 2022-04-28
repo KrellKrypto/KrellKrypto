@@ -4,3 +4,4 @@ a better place, one block at a time!
 
 This github Contains the projects I have created to learn various software devlopment skills and frameworks 
 
+In process of migrating from another reposity, as such not all projects are currently here. feel free to reach out if you want the source code for any!
