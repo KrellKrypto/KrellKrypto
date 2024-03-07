@@ -1,6 +1,4 @@
-I am a highly driven cyber security professional specializing in web application penetration testing. I have many highly regarded industry cerfications such as the CCNP security CompTIA CASP+ and Off sec OSCP. I am currently hard at work towards my OSWE and hope to add that to the collection soon. 
-
-I am the current leader of the Wilmington NC OWASP chapter. If you are in the southeast NC area I would love to have you join the chapter as we work each day towards making a more secure internet. 
+I am a highly driven cyber security professional specializing in web application penetration testing. I hold many highly regarded industry certifications Ranging from the Cisco CCNP and CompTIA Casp to the Offsec OSCP and OSWE. 
 
 I am also a competitive hacker primarily using the Hack the Box platform currently ranked around 650. You can check out my profile here: 
 https://app.hackthebox.com/profile/904224. 
